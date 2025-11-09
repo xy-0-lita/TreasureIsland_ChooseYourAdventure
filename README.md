@@ -15,8 +15,8 @@ You find yourself on a mysterious foggy road with a single mission: find the tre
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/yourusername/treasure-island.git
-   cd treasure-island
+   git clone https://github.com/xy-0-lita/TreasureIsland_ChooseYourAdventure.git
+   cd TreasureIsland_ChooseYourAdventure
 ```
 
 2. Run the game:
